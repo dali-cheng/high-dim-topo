@@ -1,7 +1,7 @@
 <h3 align="center">Creating high-dimensional topological physics using a single ring resonator</h3>
 
   <p align="justify">
-    Codes for the paper "Creating high-dimensional topological physics using a single ring resonator", preprint available at <a href="https://arxiv.org/abs/2503.11885">arXiv</a>. If you find this repository helpful, please consider citing our work.
+    Codes for the paper "Creating high-dimensional topological physics using a single ring resonator", published at <a href="https://www.cell.com/newton/fulltext/S2950-6360(25)00155-0">Newton</a>. Preprint is also available at <a href="https://arxiv.org/abs/2503.11885">arXiv</a>. If you find this repository helpful, please consider citing our work.
     <br />
 
 
